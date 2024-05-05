@@ -8,7 +8,7 @@
       "author": "Harper Lee",
       "genre": "Literary Fiction",
       "bookCondition": "Like New",
-      "availability_status": true,
+      "availabilityStatus": true,
       "bookType": "Sale"
     },
     {
@@ -19,7 +19,7 @@
       "author": "George Orwell",
       "genre": "Science Fiction",
       "bookCondition": "Good",
-      "availability_status": true,
+      "availabilityStatus": true,
       "bookType": "Exchange"
     },
     {
@@ -30,7 +30,7 @@
       "author": "F. Scott Fitzgerald",
       "genre": "Literary Fiction",
       "bookCondition": "Acceptable",
-      "availability_status": false,
+      "availabilityStatus": false,
       "bookType": "Loan"
     },
     {
@@ -41,7 +41,7 @@
       "author": "J.K. Rowling",
       "genre": "Fantasy",
       "bookCondition": "Very Good",
-      "availability_status": true,
+      "availabilityStatus": true,
       "bookType": "Sale"
     },
     {
@@ -52,7 +52,7 @@
       "author": "J.D. Salinger",
       "genre": "Literary Fiction",
       "bookCondition": "Fair",
-      "availability_status": true,
+      "availabilityStatus": true,
       "bookType": "Exchange"
     }
   ]
