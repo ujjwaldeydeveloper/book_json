@@ -2,58 +2,58 @@
   "books": [
     {
       "id": 1,
-      "user_id": 123,
+      "userId": 123,
       "title": "To Kill a Mockingbird",
       "description": "Harper Lee's classic novel about racial injustice in the American South.",
       "author": "Harper Lee",
       "genre": "Literary Fiction",
-      "book_condition": "Like New",
+      "bookCondition": "Like New",
       "availability_status": true,
-      "book_type": "Sale"
+      "bookType": "Sale"
     },
     {
       "id": 2,
-      "user_id": 456,
+      "userId": 456,
       "title": "1984",
       "description": "George Orwell's dystopian masterpiece depicting a totalitarian regime.",
       "author": "George Orwell",
       "genre": "Science Fiction",
-      "book_condition": "Good",
+      "bookCondition": "Good",
       "availability_status": true,
-      "book_type": "Exchange"
+      "bookType": "Exchange"
     },
     {
       "id": 3,
-      "user_id": 789,
+      "userId": 789,
       "title": "The Great Gatsby",
       "description": "F. Scott Fitzgerald's iconic novel set in the Roaring Twenties.",
       "author": "F. Scott Fitzgerald",
       "genre": "Literary Fiction",
-      "book_condition": "Acceptable",
+      "bookCondition": "Acceptable",
       "availability_status": false,
-      "book_type": "Loan"
+      "bookType": "Loan"
     },
     {
       "id": 4,
-      "user_id": 123,
+      "userId": 123,
       "title": "Harry Potter and the Philosopher's Stone",
       "description": "The first book in J.K. Rowling's beloved fantasy series.",
       "author": "J.K. Rowling",
       "genre": "Fantasy",
-      "book_condition": "Very Good",
+      "bookCondition": "Very Good",
       "availability_status": true,
-      "book_type": "Sale"
+      "bookType": "Sale"
     },
     {
       "id": 5,
-      "user_id": 456,
+      "userId": 456,
       "title": "The Catcher in the Rye",
       "description": "J.D. Salinger's classic coming-of-age novel.",
       "author": "J.D. Salinger",
       "genre": "Literary Fiction",
-      "book_condition": "Fair",
+      "bookCondition": "Fair",
       "availability_status": true,
-      "book_type": "Exchange"
+      "bookType": "Exchange"
     }
   ]
 }
