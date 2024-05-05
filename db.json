@@ -9,7 +9,8 @@
       "genre": "Literary Fiction",
       "bookCondition": "Like New",
       "availabilityStatus": true,
-      "bookType": "Sale"
+      "bookType": "Sale",
+      "bookImageUrl": "https://bigaband.com/wp-content/uploads/2020/06/TKAMB_1000_3D.jpg"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "genre": "Science Fiction",
       "bookCondition": "Good",
       "availabilityStatus": true,
-      "bookType": "Exchange"
+      "bookType": "Exchange",
+      "bookImageUrl": "https://m.media-amazon.com/images/I/71rpa1-kyvL._SL1500_.jpg"
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "genre": "Literary Fiction",
       "bookCondition": "Acceptable",
       "availabilityStatus": false,
-      "bookType": "Loan"
+      "bookType": "Loan",
+      "bookImageUrl": "https://www.thebookdesigner.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-14-at-3.22.45-PM.png"
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "genre": "Fantasy",
       "bookCondition": "Very Good",
       "availabilityStatus": true,
-      "bookType": "Sale"
+      "bookType": "Sale",
+      "bookImageUrl": "https://m.media-amazon.com/images/I/81q77Q39nEL._SL1500_.jpg"
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "genre": "Literary Fiction",
       "bookCondition": "Fair",
       "availabilityStatus": true,
-      "bookType": "Exchange"
+      "bookType": "Exchange",
+       "bookImageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/80341619846549.562e1421640e3.jpg"
     }
   ]
 }
