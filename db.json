@@ -59,6 +59,18 @@
       "availabilityStatus": true,
       "bookType": "Exchange",
        "bookImageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/80341619846549.562e1421640e3.jpg"
+    },
+    {
+      "id": 6,
+      "userId": 789,
+      "title": "Pride and Prejudice",
+      "description": "Jane Austen's timeless romantic novel.",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "bookCondition": "Very Good",
+      "availabilityStatus": true,
+      "bookType": "Sale",
+      "bookImageUrl": "https://m.media-amazon.com/images/I/91eKRbuhgaL._SL1500_.jpg"
     }
   ]
 }
